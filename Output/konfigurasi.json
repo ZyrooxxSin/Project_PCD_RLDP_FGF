@@ -1,0 +1,12 @@
+{
+  "patch": 45,
+  "omega": 0.95,
+  "t0": 0.1,
+  "s0": 0.25,
+  "s_const": 100.0,
+  "fgf_r": 30,
+  "fgf_eps": 0.01,
+  "fgf_sub": 4,
+  "mode_a": "pers10",
+  "stat_rlcp": "input"
+}
